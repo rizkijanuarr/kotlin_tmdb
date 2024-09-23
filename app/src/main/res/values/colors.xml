@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="dark_gray">#1F1F1F</color>
+    <color name="darker_gray">#0F0F0F</color>
+    <color name="dark_blue">#0D1B2A</color>
+    <color name="dark_purple">#5D3A91</color>
+    <color name="gray_light">#A9A9A9</color> <!-- Abu-abu lebih gelap -->
+    <color name="gray_darker">#7D7D7D</color> <!-- Abu-abu lebih gelap lagi -->
 </resources>
